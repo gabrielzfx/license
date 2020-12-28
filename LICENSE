@@ -1,4 +1,4 @@
-                        Kodirian Software License V 1.0
+                        Kodirian Software License V 1.1
 
     A Kodirian software fornece para seus produtos, parceiros e ao publico geral 
 esta licença, com o intuito de garantir  a propriedade intelectual de seus produtos
@@ -6,62 +6,65 @@ e/ou serviços bem como a integridade dos desenvolvedores e clientes.
 
     1.0 Da propriedade.
 
-        1.1 - Garantimos que a propriedade dos dados de qualquer sistema de informação
-    tais como media áudio visual, textos, postagens e demais informações que são geradas
-    ou armazenas em banco de dados ou não pertencem ao seu respectivo autor.
+        1.1 - Garantimos que a propriedade dos dados de qualquer sistema de informação,
+    midia áudio visual, textos, postagens e demais informações que são geradas
+    ou armazenas em nossos bancos de dados pertencem a kodirian software ou ao autor.
 
         1.2 - Garantimos que a propriedade do código fonte, infraestrutura, chaves de 
-    criptografia, assets, e toda forma de media produzida pela Kodirian Software, e toda 
-    forma de media sob licença de utilização por parte de terceiros, que tenham sido 
-    adquiridos pela Kodirian pertençam a Kodirian Software. 
+    criptografia, assets, e toda forma de midia produzida pela Kodirian Software, e toda 
+    forma de midia sob licença de utilização por parte de terceiros, que tenham sido 
+    adquiridos pela Kodirian Software. 
 
-        & 1.2.1 - Não temos qualquer restrição quando ao uso ou não de media que está em 
-        domino publico (free to use) ou sobre licenças de código de livre com BSD, CTL etc. 
+        & 1.2.1 - Não temos qualquer restrição quando ao uso de midia que está em 
+        domino publico, free to use ou sobre licenças de código de livre como BSD, GTL,
+        etc, por parte do cliente. 
 
-        & 1.2.2 - E vedado o uso de media ou software ou partes dele, codigo fonte, 
-        binarios        e/ou qualquer forma de media de autoria ou responsabilidade da
-        Kodrian Software ou do cliente que esteja sob termos de copy left. Salvo na 
-        concordância de ambas as partes.   
+        & 1.2.2 - Revogado
 
     2.0 Da modificação, redistribuição, e comercialização
     
         2.1 - E vedado ao cliente, parceiros ou terceiros ligados ou não a Kodirian Softwar
-        e a modificação, redistribuição, e comercialização de partes ou de todo sistema e
-        media sob licença Kodiran Software License V 1.0 (esta licença) sem expressa 
+        e a modificação, redistribuição, e comercialização de partes ou de todo de um sistema 
+        e/ou media sob licença Kodiran Software License V 1.1 (esta licença) sem expressa 
         autorização da Kodirian Software. A quebra deste principio seja violado caberá as
         medidas descritas no artigo 3.1.1.
 
     3.0 Do uso final pelo usuário
 
-        3.1 E vedado ao usuário final, cliente ao dono do produto o uso de indevido ou
-    de má fé com o intuito de provocar falhas ou causar danos ao sistema a outros 
-    sistemas da Kodirian Software, parceiros, e terceiros, bibliotecas de código, código
-    fonte, binários, base de dados, etc.
+        3.1 E vedado ao usuário final (cliente ou seus subordinados), o uso de indevido ou
+    de má fé com o intuito de provocar falhas ou causar danos aos sistemas da Kodirian 
+    Software, parceiros, e terceiros, bibliotecas de código, código fonte, binários, 
+    base de dados, etc.
 
         3.1.1& Caso o termo 3.1 seja quebrada haverá por parte da Kodirian Software 
         junto as autoridades competentes a investigação sem aviso prévio e se comprovada
         a veracidade da origem do ataque, seja ele provocado em complô pelo cliente ou 
         seus subordinados o software e\ou serviço bem como sua base dados e outros 
-        componentes com APIs, estará sujeito a suspensão, bloqueio total ou parcial.
+        componentes com APIs, estará sujeito a suspensão, bloqueio total ou parcial, 
+        multa em até 1000x vezes o valor pago pelo produto ou serviço, retensão ou
+        exclusão de todos os dados.  
 
         3.1.2& A Kodirian Software está ciente que falhas e vulnerabilidades estão 
         presentes em todos os sistema e que não existe medidas que segurança invioláveis
         por isso, nos dispomos a oferecer esta clausula para permitir testes e análises 
         de segurança por parte de nossos clientes desde que nos seja comunicado com 
-        antecedência e os teste não sejam destrutivos ou invasivos e que nenhum dado 
-        sensível seja coletado e\ou armazenado. 
+        antecedência desde que os teste não sejam destrutivos ou invasivos e que nenhum 
+        dado sensível seja coletado e\ou armazenado. 
 
     4.0 Da responsabilidade
     
-        4.1 - A Kodirian Software não se responsabilizamos por falhas, indisponiblidade
-    ou vunerabilidades de sistemas externos, tais como servidores de dominio,hospedagens,
-    servidores de banco de dadosm APIs externas, provedores de media ou armazenamento, 
-    plugins e templates que estajam fora escopo do controle da Kodirian Software.
+        4.1 - A Kodirian Software não se responsabiliza por falhas, indisponiblidade
+    ou vunerabilidades de sistemas externos, tais como servidores de dominio, hospedagens,
+    servidores de banco de dados APIs externas, provedores de media ou armazenamento, 
+    plugins e templates que estajam fora escopo do controle da Kodirian Software caso o 
+    cliente não faça opção pelas medidas de seguranaça e reduncias recomendadas.
 
         4.1.1& A Kodirian Software esta ciente que as falhas descritas no artigo 4.1 pode 
         causar transtornos ao nosso clientes por isso sugerimos fortemente para que as 
-        meditas de reduncia e segurança sejam mantidas pelos nossos clientes.
+        meditas de reduncia e segurança sejam mantidas pelos nossos clientes. 
 
         4.1.2& Não nos responsabilizamos por falhas e vunerabilidades que sejam causadas
-        pelo mau uso do sistema e\ou a não adoção de medidas de segurança por parte do
-        usuário.
+        pelo mau uso do sistema, a não adoção de medidas de segurança adequadas, incapacidade 
+        técnica do usuário, ou utilização de hardware incompativel ou abaixo das expesificações
+        minimas.
+        
